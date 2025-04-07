@@ -1,5 +1,5 @@
 # ***v***-CLR
-**<center><font size=4>[CVPR 2025 highlight] ***v***-CLR: View-Consistent Learning for Open-World Instance Segmentation </font></center>**  
+**<center><font size=6>[CVPR 2025 highlight] ***v***-CLR: View-Consistent Learning for Open-World Instance Segmentation </font></center>**  
 [Chang-Bin Zhang](https://zhangchbin.github.io)<sup>1</sup>, Jinhong Ni<sup>1</sup>, Yujie Zhong<sup>2</sup>, Kai Han<sup>1</sup>  
 <sup>1</sup> <sub>The University of Hong Kong</sub>  
 <sup>2</sup> <sub>Meituan Inc.</sub>  
